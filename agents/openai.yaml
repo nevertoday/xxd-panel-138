@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 138"
+  short_description: "Oriental Paper Relief"
+  default_prompt: "Use $xxd-panel-138 to transform my photograph using the complete canonical source brief."
