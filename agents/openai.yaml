@@ -1,4 +1,4 @@
 interface:
   display_name: "XXD Panel 138"
-  short_description: "Oriental Paper Relief"
-  default_prompt: "Use $xxd-panel-138 to transform my photograph using the complete canonical source brief."
+  short_description: "东方纸艺浮雕志：用手工棉纸的褶皱、压凸和切层，把照片做成白纸上的微缩浅浮雕"
+  default_prompt: "Use $xxd-panel-138 to turn my photo into Oriental Paper Relief artwork."

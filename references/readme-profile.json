@@ -1,0 +1,114 @@
+{
+  "skill_description": "XXD Panel 138｜Oriental Paper Relief: rebuilds the key subject of a photo as a new-Chinese minimalist paper relief, shaping handmade cotton or fibre paper with folds, embossing, debossing, cuts and slight layering, deckled edges and shallow shadows so the paper itself becomes the scene, almost entirely in warm white, ivory and pale greys with one or two tiny accents from the photo, as a seal-sized focal point in large deliberate whitespace with small vertical or edge text arranged like book design. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-138 or asks for paper relief, embossed paper art, paper sculpture or Eastern minimalist book-cover images from a photo.",
+  "short_description": "东方纸艺浮雕志：用手工棉纸的褶皱、压凸和切层，把照片做成白纸上的微缩浅浮雕",
+  "zh-CN": {
+    "name": "东方纸艺浮雕志",
+    "tagline": "用手工棉纸的褶皱、压凸和切层，把照片做成白纸上一枚小小的浅浮雕。",
+    "look": "主体不是画出来的，而是用纸做出来的：手工纸、棉纸或细纤维艺术纸经过折叠、压凸、压凹、切割和轻微层叠，形成浅浮雕，毛边、纤维、折痕和浅浅的阴影让纸本身变成景物。画面几乎全是暖白、象牙白和极浅的灰，只从照片里挑一两种颜色点在很小的地方。主体只有一枚小章印那么大，周围是大片空白；文字很少，竖排、贴边或远离主体，像书籍装帧。",
+    "traits": [
+      "手工棉纸浅浮雕",
+      "折叠压凸压凹切层",
+      "微缩叙事",
+      "极少点色",
+      "东方极简装帧留白"
+    ],
+    "good": [
+      "轮廓简洁、适合用纸做出来的主体：一座山、一只鹤、一棵松、一叶小舟",
+      "有层次感的自然景物：远山、水波、梯田、雪地",
+      "想做成书籍封面、茶品包装或东方气质展签的照片"
+    ],
+    "poor": [
+      "颜色是重点的照片：花市、彩色建筑、霓虹夜景，结果几乎全白",
+      "细节密、结构乱的场景，做成纸浮雕会看不清",
+      "想要水墨画、厚重 3D、塑料质感或传统红金新中式海报"
+    ]
+  },
+  "en": {
+    "name": "Oriental Paper Relief",
+    "tagline": "Folds, embosses and cuts handmade paper into a tiny shallow relief of your photo on a white page.",
+    "look": "The subject is not painted but made of paper: handmade, cotton or fine-fibre art paper is folded, embossed, debossed, cut and lightly layered into a shallow relief, and its deckled edges, fibres, creases and soft shadows turn the paper itself into the scene. Almost the whole image is warm white, ivory and the palest greys, with only one or two colours from the photo dotted in very small areas. The subject is about the size of a small seal, surrounded by wide empty space, and the sparse text runs vertically, along an edge or far from the subject, as in book design.",
+    "traits": [
+      "Handmade paper relief",
+      "Folds, embossing, cuts, layers",
+      "Miniature storytelling",
+      "A dot of colour",
+      "Eastern minimal book-design whitespace"
+    ],
+    "good": [
+      "Simple subjects that could be made from paper: a mountain, a crane, a pine, a small boat",
+      "Natural scenes with layers: distant hills, ripples, terraced fields, snow",
+      "Photos for a book cover, tea packaging or an Eastern-inspired exhibition label"
+    ],
+    "poor": [
+      "Photos where colour is the point, such as flower markets, painted buildings or neon at night, since the result is almost all white",
+      "Dense, chaotic scenes that become unreadable as paper relief",
+      "Requests for ink painting, heavy 3D, plastic sheen or a red-and-gold traditional poster"
+    ]
+  },
+  "ja": {
+    "name": "東洋の紙レリーフ",
+    "tagline": "手漉きの綿紙を折り、浮き出し、切り重ねて、写真を白い紙の上の小さな浅浮き彫りにします。",
+    "look": "主役は描くのではなく紙でつくります。手漉き紙、綿紙、繊維の細かいアートペーパーを折り、浮き出し、押し込み、切り、少し重ねて浅いレリーフにし、耳付きの縁、繊維、折り目、淡い影によって紙そのものが景色になります。画面はほぼ温かい白、アイボリー、ごく淡いグレーで、写真から選んだ一、二色をほんの小さく差すだけ。主役は小さな落款ほどの大きさで、周りは大きな余白。文字はわずかで、縦組み、端に寄せる、主役から離すなど、本の装丁のように配します。",
+    "traits": [
+      "手漉き綿紙の浅浮き彫り",
+      "折り・浮き出し・押し込み・切り重ね",
+      "ミニチュアの物語",
+      "ごくわずかな差し色",
+      "東洋的ミニマルな装丁の余白"
+    ],
+    "good": [
+      "紙でつくれそうなシンプルな主役：山、鶴、松、小舟",
+      "重なりのある自然の景色：遠い山並み、水紋、棚田、雪原",
+      "本の表紙、お茶のパッケージ、東洋的な展示ラベルにしたい写真"
+    ],
+    "poor": [
+      "色が見どころの写真：花市場、色とりどりの建物、ネオンの夜景（ほとんど白になります）",
+      "細部が密で雑然とした場面（紙のレリーフにすると読み取れません）",
+      "水墨画、重い 3D、プラスチックのような質感、赤と金の伝統的なポスターを求める場合"
+    ]
+  },
+  "ko": {
+    "name": "동양 종이 부조",
+    "tagline": "수제 면지를 접고 돋을새김하고 잘라 겹쳐서, 사진을 흰 종이 위의 작은 얕은 부조로 만듭니다.",
+    "look": "주인공은 그리는 것이 아니라 종이로 만듭니다. 수제 종이, 면지, 섬유가 고운 아트지를 접고, 돋을새김과 오목새김을 하고, 자르고, 살짝 겹쳐 얕은 부조를 만들며, 거친 가장자리와 섬유, 접힌 자국, 옅은 그림자 덕분에 종이 자체가 풍경이 됩니다. 화면은 거의 따뜻한 흰색, 상아색, 아주 옅은 회색이고, 사진에서 고른 한두 가지 색만 아주 작게 찍습니다. 주인공은 작은 낙관만 한 크기이고 주변은 넓은 빈 공간이며, 글은 아주 적게 세로쓰기나 가장자리, 주인공에서 먼 곳에 두어 책 장정처럼 배치합니다.",
+    "traits": [
+      "수제 면지 얕은 부조",
+      "접기·돋을새김·오목새김·잘라 겹치기",
+      "미니어처 서사",
+      "아주 작은 포인트 색",
+      "동양적 미니멀 장정 여백"
+    ],
+    "good": [
+      "종이로 만들 수 있을 법한 단순한 주인공: 산, 학, 소나무, 작은 배",
+      "층이 있는 자연 풍경: 먼 산, 물결, 계단식 논, 눈밭",
+      "책 표지, 차 포장, 동양적인 전시 라벨로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "색이 핵심인 사진: 꽃시장, 알록달록한 건물, 네온 야경(결과가 거의 흰색입니다)",
+      "세부가 빽빽하고 어수선한 장면(종이 부조로 만들면 알아보기 어렵습니다)",
+      "수묵화, 무거운 3D, 플라스틱 질감, 빨강과 금색의 전통 포스터를 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "نحت ورقي شرقي",
+    "tagline": "يطوي الورق اليدوي ويضغطه ويقصّه ليصنع من صورتك نقشاً بارزاً ضحلاً صغيراً على صفحة بيضاء.",
+    "look": "لا يُرسم العنصر بل يُصنع من الورق: ورق يدوي أو قطني أو فني دقيق الألياف يُطوى ويُضغط بارزاً وغائراً ويُقصّ ويُطبَّق قليلاً ليصير نقشاً بارزاً ضحلاً، فتجعل حوافه غير المشذّبة وأليافه وثناياه وظلاله الخفيفة الورقَ نفسه هو المشهد. الصورة كلها تقريباً بالأبيض الدافئ والعاجي وأفتح درجات الرمادي، مع لون أو لونين من الصورة في مساحات صغيرة جداً. العنصر بحجم ختم صغير تقريباً وتحيط به مساحة فارغة واسعة، والنص قليل يُكتب عمودياً أو على الحافة أو بعيداً عن العنصر، كما في تصميم الكتب.",
+    "traits": [
+      "نقش بارز من الورق اليدوي",
+      "طيّ وضغط وقصّ وطبقات",
+      "حكاية مصغّرة",
+      "نقطة لون صغيرة",
+      "فراغ تصميم كتب شرقي بسيط"
+    ],
+    "good": [
+      "عناصر بسيطة يمكن صنعها من الورق: جبل، طائر كركي، شجرة صنوبر، قارب صغير",
+      "مناظر طبيعية متعددة الطبقات: تلال بعيدة، تموّجات الماء، مدرّجات زراعية، ثلج",
+      "صور لغلاف كتاب أو تغليف شاي أو بطاقة معرض بروح شرقية"
+    ],
+    "poor": [
+      "صور يكون اللون فيها هو الأساس، كأسواق الزهور أو المباني الملوّنة أو أضواء النيون ليلاً، لأن النتيجة بيضاء تقريباً",
+      "مشاهد كثيفة فوضوية يصعب قراءتها نقشاً ورقياً",
+      "طلب رسم بالحبر أو مظهر ثلاثي الأبعاد ثقيل أو لمعة بلاستيكية أو ملصق تقليدي بالأحمر والذهبي"
+    ]
+  }
+}

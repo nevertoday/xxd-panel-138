@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-138
-description: "Create XXD Panel 138 raster artwork from photographs using Oriental minimalist paper relief, miniature source-grounded subjects, folds and shallow embossing in handmade cotton paper, tiny colour accents and book-design whitespace. Use when the user invokes xxd-panel-138 or requests this style. Supports individual images, isolated directory batches, strict 50:50 comparisons, design-only outputs, and wallpapers."
+description: "XXD Panel 138｜Oriental Paper Relief: rebuilds the key subject of a photo as a new-Chinese minimalist paper relief, shaping handmade cotton or fibre paper with folds, embossing, debossing, cuts and slight layering, deckled edges and shallow shadows so the paper itself becomes the scene, almost entirely in warm white, ivory and pale greys with one or two tiny accents from the photo, as a seal-sized focal point in large deliberate whitespace with small vertical or edge text arranged like book design. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-138 or asks for paper relief, embossed paper art, paper sculpture or Eastern minimalist book-cover images from a photo."
 ---
 
 # XXD Panel 138
